@@ -1,0 +1,78 @@
+﻿#divTitulo{
+  font-family:'Berlin Sans FB';
+  font-size:40px;
+  color:#993399;
+  height:400px;
+  background: linear-gradient(to bottom, #69E8B2 0%, #8FF4C9 100%);
+  box-shadow:5px 5px #98bcf3;
+}
+#txtTittle{
+
+ 
+  padding-left: 100px;
+  
+}
+#divContenido{
+    margin-left:340px;
+       font-family :'Indie Flower', cursive;
+    font-size:30px;
+    width:850px;
+    color:#000000;
+    text-decoration-color:#69e882;
+    text-decoration-line:underline;
+    font-weight:bold;
+    background-color:white;
+}
+#txtAlumno{
+    margin-left:340px;
+    text-decoration-line:none;
+    font-weight:bold;
+    color:#73a0e7;
+    font-size:40px;
+    width: 509px;
+}
+#progresoTotal{
+    color:#73a0e7;
+    width:446px;
+    margin-left: 480px;
+    font-family :'Indie Flower', cursive;
+    font-size:50px;
+    margin-top:-100px;
+    margin-left:800px;
+    font-weight:bolder;
+    background-color:white;
+}
+#barProgress{
+     margin-left:800px;
+     width:400px;
+     height:25px;
+}
+body{
+    background-color:#ffffff;
+}
+#imgProgress{
+height:250px;
+width:250px;
+margin-top:-100px;
+margin-left:700px;
+position:absolute;
+}
+#percetActs{
+    background-color:#ffffff;
+     font-family :'Indie Flower', cursive;
+    color:#000000;
+    font-size:35px;
+      margin-left: 325px;
+      width:850px
+      ;
+
+}
+#tittleActs{
+    font-family :'Indie Flower', cursive;
+    color:#73a0e7;
+    margin-top:100px;
+    
+    font-size:35px;
+    font-weight:bold;
+}
+

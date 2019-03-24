@@ -1,0 +1,112 @@
+﻿
+body {
+    margin:0;
+    font-family:'Arial Rounded MT';
+    font-size:20px;
+    
+}
+
+.icon-bar {
+  width: 100%;
+  background-color: #6ACDE4;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 16%;
+  text-align: center;
+  padding: 5px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+    height: 134px;
+}
+
+.icon-bar a:hover {
+  background-color: #73A0E7;
+}
+
+.active {
+  background-color: #73A0E7;
+}
+
+.encabezado {
+ font-family:'Arial Rounded MT';
+ text-align: center; 
+}
+
+.centrar {
+
+     text-align: center;
+    
+
+}
+.cajas {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+}
+
+.column {
+float: left;
+height: 1000px; 
+}
+
+.column.side {
+  width: 25%;
+}
+
+.column.middle {
+  width: 50%;
+  font-family:Verdana;
+  text-align: center;
+}
+
+.box {
+   border-radius: 5px;
+   outline: none;
+   border: 5px solid #FDFEFE;
+   font-family: "Arial";
+   
+ }
+
+
+.boton_personalizado{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 100;
+    background-color: #FDFEFE;
+    border-radius: 1px;
+    border: 0px solid #808B96;
+    width:100px;
+    height:30px;
+  }
+
+.boton_personalizado:hover{
+   background-color: #2ECC71;
+   color: #FDFEFE;
+   box-shadow: inset 0 0 0 0px #17202A;
+  }
+
+ .boton_personalizado2{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 100;
+    background-color: #FDFEFE;
+    border-radius: 1px;
+    border: 0px solid #808B96;
+    width:100px;
+    height:30px;
+  }
+
+.boton_personalizado2:hover{
+   background-color: #E74C3C;
+   color: #FDFEFE;
+   box-shadow: inset 0 0 0 0px #17202A;
+  }
